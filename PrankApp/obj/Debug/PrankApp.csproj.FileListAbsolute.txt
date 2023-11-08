@@ -1,0 +1,10 @@
+C:\Users\devah\Desktop\PrankApp\PrankApp\bin\Debug\PrankApp.exe.config
+C:\Users\devah\Desktop\PrankApp\PrankApp\bin\Debug\PrankApp.exe
+C:\Users\devah\Desktop\PrankApp\PrankApp\bin\Debug\PrankApp.pdb
+C:\Users\devah\Desktop\PrankApp\PrankApp\obj\Debug\PrankApp.csproj.AssemblyReference.cache
+C:\Users\devah\Desktop\PrankApp\PrankApp\obj\Debug\PrankApp.Form1.resources
+C:\Users\devah\Desktop\PrankApp\PrankApp\obj\Debug\PrankApp.Properties.Resources.resources
+C:\Users\devah\Desktop\PrankApp\PrankApp\obj\Debug\PrankApp.csproj.GenerateResource.cache
+C:\Users\devah\Desktop\PrankApp\PrankApp\obj\Debug\PrankApp.csproj.CoreCompileInputs.cache
+C:\Users\devah\Desktop\PrankApp\PrankApp\obj\Debug\PrankApp.exe
+C:\Users\devah\Desktop\PrankApp\PrankApp\obj\Debug\PrankApp.pdb
